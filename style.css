@@ -18,14 +18,30 @@
 
 /* add your css here, feel free to use comments and order them logically for better readability */
 
+<<<<<<< HEAD
 body{
    background-color:rgb(215,255,242);
    color:rgb(0,0,0);
    font-family: arial;
 font-size: 100%;
+=======
+.Hallo{
+   background-color:rgb(0, 0, 0);
+>>>>>>> d9f94b6 (Article toegevoegd)
 
 }
 #kleurentema{
    color :rgb(78, 80, 78);  
 }
 
+
+.Wat_is_het{background-color:aquamarine;}
+.Wat_is_het{width: 48%;}
+.Wat_is_het{color:rgb(38, 145, 38);}
+.Wat_is_het{border-style:dotted;}
+.Wat_is_het{border-width:5px;}
+.Wat_is_het{border-color:black;}
+
+.klasik{float: right;}
+
+.Moeilijke_wat_is_het{width: 99%;}
