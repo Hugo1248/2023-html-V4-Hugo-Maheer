@@ -18,31 +18,106 @@
 
 /* add your css here, feel free to use comments and order them logically for better readability */
 
-<<<<<<< HEAD
-body{
-   background-color:rgb(215,255,242);
-   color:rgb(0,0,0);
-   font-family: arial;
-font-size: 100%;
-=======
-.Hallo{
-   background-color:rgb(0, 0, 0);
->>>>>>> d9f94b6 (Article toegevoegd)
-
-
-}
-#kleurentema{
-   color :rgb(78, 80, 78);  
+.bodyindex {
+   font-family: Arial, sans-serif;
+   margin: 0;
+   padding: 0;
+   background-color: aquamarine;
+   color: #333;
 }
 
+.headerindex {
+   background-color: #333;
+   color: #fff;
+   text-align: center;
+   padding: 10px;
+}
 
-.Wat_is_het{background-color:aquamarine;}
-.Wat_is_het{width: 48%;}
-.Wat_is_het{color:rgb(38, 145, 38);}
-.Wat_is_het{border-style:dotted;}
-.Wat_is_het{border-width:5px;}
-.Wat_is_het{border-color:black;}
+.mainidex {
+   padding: 20px;
+}
 
-.klasik{float: right;}
+.articleidex {
+   background-color: #fff;
+   border-radius: 5px;
+   
+   margin-bottom: 20px;
+   padding: 15px;
+}
 
-.Moeilijke_wat_is_het{width: 99%;}
+
+footer {
+       background-color: #111010;
+       color: #fff;
+       text-align: center;
+       padding: 10px;
+       position: fixed;
+       bottom: 0;
+       width: 100%;
+   }
+   a {
+       color: #000000;
+       text-decoration: none;
+       padding: 0 10px;
+   }
+#mijn{
+color:#fff;
+}
+.h2 {
+   color: #333;
+}
+/*nieuw stuk */
+
+
+
+
+
+
+
+.body1 {
+   font-family: Arial, sans-serif;
+   margin: 0;
+   padding: 0;
+   background-color: #000000;
+   color: #fff;
+}
+
+.header1 {
+   background-color: #000000;
+   color: #fff;
+   text-align: center;
+   padding: 10px;
+   
+}
+
+.main1 {
+   padding: 20px;
+}
+
+.article1 {
+   background-color: #6e6e6e;
+ border-radius: 5px;
+
+ margin-bottom: 20px;
+ padding: 15px;
+}
+
+
+
+
+
+.footer1 {
+   background-color: #111010;
+   color: #fff;
+   text-align: center;
+   padding: 10px;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+
+.a1 {
+   color: #fff;
+   text-decoration: none;
+   padding: 0 10px;
+}
