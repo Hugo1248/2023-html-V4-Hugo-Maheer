@@ -46,7 +46,7 @@
 }
 
 
-footer {
+.footerindex {
        background-color: #111010;
        color: #fff;
        text-align: center;
@@ -102,16 +102,28 @@ color:#fff;
  padding: 15px;
 }
 
+     
+.a1 {
+   color: #fff;
+   text-decoration: none;
+   padding: 0 10px;
+}
 
 
 
 
 .footer1 {
    background-color: #111010;
-   color: #fff;
+   color: #ffffff;
    text-align: center;
    padding: 10px;
    position: fixed;
    bottom: 0;
    width: 100%;
+}
+.img1{
+   max-width: 50%;
+   height: auto;
+   float:right;
+  
 }
